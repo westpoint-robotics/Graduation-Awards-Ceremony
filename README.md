@@ -1,3 +1,3 @@
-# EECS Graduation-Awards-Ceremony
+# EECS Graduation Awards Ceremony
 
-Graduation Luncheon Program
+1. Graduation Luncheon Program
